@@ -1,17 +1,17 @@
-#tajam
+# tajam
 Tajam is business page 
 
-#Live URL
+# Live URL
 https://tajam.github.io
 
 
-#Description
+# Description
 
 
-#Demo
+# Demo
 
 
-#Outside code
+# Outside code
 Main Font: Roboto https://fonts.google.com/specimen/Roboto<br>
 Secondary Font: PLAYFAIR DISPLAY https://www.fontsquirrel.com/fonts/playfair-display<br>
 CSS Reset: Normalize https://necolas.github.io/normalize.css/<br>
